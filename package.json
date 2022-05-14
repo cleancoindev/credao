@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aragon/os": "^4.3.0",
+    "@aragon/os": "^4.4.0",
     "@aragon/ui": "^0.40.2",
     "@graphile-contrib/pg-many-to-many": "^1.0.0-beta.10",
     "babel-plugin-styled-components": "^1.10.6",
@@ -43,7 +43,7 @@
     "jsonwebtoken": "^8.5.1",
     "merkle-tree-solidity": "^1.0.8",
     "mkdirp": "^0.5.1",
-    "next": "^9.0.5",
+    "next": "^9.3.4",
     "next-transpile-modules": "^2.3.1",
     "pg-boss": "^3.1.7",
     "pg-pubsub": "^0.5.0",
